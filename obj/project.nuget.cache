@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "dgSpecHash": "KonLCSZc40Q=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Alfa\\OneDrive - Editora e Distribuidora Educacional\\Área de Trabalho\\SENAI\\04c - Atividade 3 - Criar estrutura da API\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Swashbuckle.AspNetCore (>= 6.2.3)' para 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.VisualStudio.Web.CodeGeneration.Design (>= 6.0.0)' para 'net6.0'.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.EntityFrameworkCore (>= 6.0.0)' para 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.EntityFrameworkCore.SqlServer (>= 6.0.0)' para 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.AspNetCore.Authentication.JwtBearer (>= 6.0.0)' para 'net6.0'.",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.EntityFrameworkCore.Tools.DotNet (>= 2.0.1)' para 'net6.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools.DotNet",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
